@@ -1,2 +1,0 @@
-# DevOpsBasic
-Basics of DevOps
